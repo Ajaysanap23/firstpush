@@ -43,7 +43,7 @@ const second = () => {
           <img className="icons" src={blog} />
           <img className="icons" src={whatsapp} />
           <img className="icons" src={world} />
-          <img className="icons" src={v} />
+          <img className="icons" src={vee} />
           <img className="icons" src={Staiers} />
           <img className="icons" src={api} />
           <img className="icons" src={telegram} />
