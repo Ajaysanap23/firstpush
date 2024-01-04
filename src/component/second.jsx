@@ -11,7 +11,7 @@ import whatsapp from "../assets/whatsapp.png";
 import telegram from "../assets/telegram.png";
 import vee from "../assets/vee.png";
 import reddit from "../assets/reddit.png";
-import rectangle from "../assets/rectangle.png";
+import rect from "../assets/rectangle.png";
 import playstore from "../assets/playstore.png";
 import googlehome from "../assets/googlehome.png";
 import blog from "../assets/blog.png";
@@ -48,7 +48,7 @@ const second = () => {
           <img className="icons" src={api} />
           <img className="icons" src={telegram} />
           <img className="icons" src={reddit} />
-          <img className="icons" src={rectangle} />
+          <img className="icons" src={rect} />
         </div>
       </div>
     </div>
