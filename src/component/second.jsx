@@ -9,7 +9,7 @@ import api from "../assets/api.png";
 import Staiers from "../assets/staiers.png";
 import whatsapp from "../assets/whatsapp.png";
 import telegram from "../assets/telegram.png";
-// import vee from "../assets/vee.png";
+import vee from "../assets/vee.png";
 import reddit from "../assets/reddit.png";
 import rectangle from "../assets/rectangle.png";
 import playstore from "../assets/playstore.png";
@@ -43,7 +43,7 @@ const second = () => {
           <img className="icons" src={blog} />
           <img className="icons" src={whatsapp} />
           <img className="icons" src={world} />
-{/*           <img className="icons" src={vee} /> */}
+          <img className="icons" src={vee} />
           <img className="icons" src={Staiers} />
           <img className="icons" src={api} />
           <img className="icons" src={telegram} />
