@@ -9,7 +9,7 @@ import api from "../assets/api.png";
 import Staiers from "../assets/staiers.png";
 import whatsapp from "../assets/whatsapp.png";
 import telegram from "../assets/telegram.png";
-import v from "../assets/v.png";
+import vee from "../assets/v.png";
 import reddit from "../assets/reddit.png";
 import rectangle from "../assets/rectangle.png";
 import playstore from "../assets/playstore.png";
